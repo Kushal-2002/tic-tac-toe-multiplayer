@@ -13,3 +13,7 @@ A real-time multiplayer Tic Tac Toe game using:
 cd server
 npm install
 node index.js
+**2. Start the frontend**
+cd client
+npm install
+npm run dev
