@@ -8,12 +8,14 @@ A real-time multiplayer Tic Tac Toe game using:
 
 ## 🚀 How to Run Locally
 
-### 1. Start the backend
+1. Start the backend
 ```bash
 cd server
 npm install
 node index.js
-**2. Start the frontend**
+
+2. Start the frontend
+```bash
 cd client
 npm install
 npm run dev
